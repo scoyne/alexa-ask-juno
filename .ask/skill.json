@@ -21,12 +21,12 @@
               "emotional support animal",
               "esa"
             ],
-            "name": "Minecraft Helper",
-            "description": "Sample Full Description"
+            "name": "Ask Juno",
+            "description": "Ask Juno questions about seeing eye dog, service dogs, therapy dogs"
           },
         },
         "isAvailableWorldwide": false,
-        "testingInstructions": "Sample Testing Instructions.",
+        "testingInstructions": "Testing Instructions.",
         "category": "EDUCATION_AND_REFERENCE",
         "distributionCountries": []
       },
